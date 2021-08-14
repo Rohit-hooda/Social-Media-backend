@@ -1,4 +1,4 @@
-# Microservices
+# Social Media Backend
 Socially focuses on microservices, infrastructure and containers, created using Nest.js and Typescript. 
 
 It features authentication, ELK stack, Kubernetes deployment, MongoDB database, and Redis as a middleware
