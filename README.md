@@ -1,6 +1,7 @@
-# Nest Microservices
+# Microservices
+Socially focuses on microservices, infrastructure and containers, created using Nest.js and Typescript. 
 
-**A microsservice architecture exmaple**
+It features authentication, ELK stack, Kubernetes deployment, MongoDB database, and Redis as a middleware
 
 **TechStack**
 
